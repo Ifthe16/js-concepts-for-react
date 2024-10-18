@@ -44,7 +44,7 @@ const input = '560';
 const inputNum = +input;
 console.log(inputNum);
 
-// 
+// && and || shortcut
 let isActive = true;
 const showUser = () => console.log('display User');
 const hideUser = () => console.log('hide User');
